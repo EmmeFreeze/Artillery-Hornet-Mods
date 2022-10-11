@@ -48,4 +48,4 @@ Feel free to contribute!
 
 ## USEFUL RESOURCES
 
-- **Getting started with Artillery's printers:** https://github.com/kind3r/getting-started-with-your-artillery-printer
+- **Getting started with Artillery's printers:** https://artillery.n3t.ro/ (https://github.com/kind3r/getting-started-with-your-artillery-printer)
