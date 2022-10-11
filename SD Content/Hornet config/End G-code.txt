@@ -1,0 +1,5 @@
+G1 E-6 F9000
+M104 S0 T0 ; turn off temperature
+M140 S0 ; turn off bed
+G1 X110 Y220 F10000
+M84 ; disable motors
