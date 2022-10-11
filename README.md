@@ -3,10 +3,7 @@ A curated list of awesome Artillery Hornet modifications: hardware mods, firmwar
 
 Feel free to contribute!
 
-
-ARTILLERY HORNET REVIEW
-
-### Tech Specs
+## Tech Specs
 
 #### GENERAL SPECIFICATIONS
 
