@@ -45,3 +45,7 @@ Feel free to contribute!
 
 -   **Frame dimensions**: 470 x 410 x 450 mm
 -   **Weight**: 8 kg
+
+## USEFUL RESOURCES
+
+- ** Getting started with Artillery's printers: ** https://github.com/kind3r/getting-started-with-your-artillery-printer
